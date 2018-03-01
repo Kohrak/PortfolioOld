@@ -27,3 +27,19 @@
 #frontEnd .thumbnail {
   background-color: #ccdad1;
 }
+
+.big-icon {
+    font-size: 100px;
+    color: white !important;
+    text-decoration: none;
+}
+
+#profiles .fcc{
+  margin-top: 35px;
+  margin-left: 40px;
+}
+
+#profiles .row a {
+  color: white;
+  text-decoration: none;
+}
