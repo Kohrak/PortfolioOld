@@ -1,0 +1,25 @@
+#presentation .jumbotron {
+  background-color: #187795;
+  margin-bottom: 0px;
+  font-family: 'Titillium Web', sans-serif;
+  color: #ccdad1;
+}
+
+#presentation .jumbotron img {
+  border: 2px solid black;
+  height: 200px;
+}
+
+#frontEnd {
+  background-color: #788585;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#profiles {
+  background-color: #2589bd;
+}
+
+#contact {
+  background-color: #9caea9;
+  font-family: 'Titillium Web', sans-serif;
+}
